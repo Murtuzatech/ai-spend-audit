@@ -1,0 +1,2 @@
+# Project Reflection
+The biggest challenge was creating a professional dark-themed UI that remains readable. I learned how to manage dynamic inputs in React and handle complex CSS grid layouts for responsiveness. Overcoming terminal errors and mastering Git workflows was a key part of this journey.
