@@ -1,18 +1,20 @@
-## Day 1 - 2026-05-06
-**Hours worked:** 2
+## Day 2 & 3 - 2026-05-08/09
+**Hours worked:** 6
+
 **What I did:**
-- Initialized the project using Vite and React.
-- Connected the local repository to GitHub.
-- Built the basic functional UI for the AI Spend Audit form.
-- Implemented state logic to handle multiple tool inputs dynamically.
+- Integrated Tailwind CSS via CDN for styling.
+- Developed a high-end Professional UI with Glassmorphism aesthetics.
+- Fixed complex grid alignment issues for responsive tool rows.
+- Refined the "Remove Tool" logic and UI positioning.
+- Pushed the final functional project to GitHub.
 
 **What I learned:**
-- Setting up a professional Git workflow.
-- Managing dynamic arrays in React state.
+- Advanced CSS layouts using Tailwind Grid and Flexbox.
+- Debugging React bracket mismatches and syntax errors.
+- Version control (Git) workflow: Add, Commit, and Push.
 
-**Blockers / what I'm stuck on:**
-- UI is currently very basic (Plain HTML). Need to integrate Tailwind CSS for better styling.
+**Blockers:**
+- Initial Tailwind configuration via npm was tricky, but successfully bypassed using CDN.
 
 **Plan for tomorrow:**
-- Install and configure Tailwind CSS.
-- Improve the UI design using Glassmorphism aesthetics.
+- Deploy the live site on Vercel/Netlify.
